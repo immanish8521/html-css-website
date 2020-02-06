@@ -55,6 +55,7 @@ p{
     margin-left: 100px;
     margin-top: 40px;
     cursor: pointer;
+    outline: none;
 }
 .inner button:hover{
     color: crimson;
@@ -151,6 +152,7 @@ p{
     padding: 10px;
     text-align: center;
     align-items: center;
+    outline: none;
 
 }
 .form .contact-form input:hover{
@@ -165,7 +167,9 @@ p{
     color: white;
     font-size: 15px;
     border-radius: 80px;
-    cursor: pointer;   
+    cursor: pointer; 
+    outline: none;  
+    
 }
 .last:hover{
     font-size: large;
